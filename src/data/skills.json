@@ -1,0 +1,34 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "assests/skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "assests/skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "assests/skills/react.png"
+    },
+    {
+      "title": "ML",
+      "imageSrc": "assests/skills/ml.png"
+    },
+    {
+      "title": "Excel",
+      "imageSrc": "assests/skills/excel.png"
+    },
+    {
+      "title": "PowerBI",
+      "imageSrc": "assests/skills/powerbi.png"
+    },
+    {
+      "title": "Could",
+      "imageSrc": "assests/skills/cloud.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "assests/skills/sql.png"
+    }
+  ]

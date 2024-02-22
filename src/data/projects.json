@@ -1,0 +1,44 @@
+[
+    {
+      "title": "Hunt your Dream House",
+      "imageSrc": "assests/projects/project1.png",
+      "description": "This project is a dynamic and versatile real estate platform that empowers seekers to find their perfect homes for rent or purchase.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "source": "https://github.com/Kaivalya1234/HUNT-YOUR-DREAM-HOUSE"
+    },
+    {
+      "title": "Tic-tac-Toe",
+      "imageSrc": "assests/projects/project2.png",
+      "description": "Tic-Tac-Toe is a two-player game in which the players fill up nine empty rectangles in a table with either an X or an O when it is their turn.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "source": "https://github.com/Kaivalya1234/Tic-tac-toe"
+    },
+    {
+      "title": "Rock-Paper-Scissors",
+      "imageSrc": "assests/projects/project3.png",
+      "description": "This Project will generate a random choice for the computer and then prompt the player to enter their choice and dispaly the winner.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "source": "https://github.com/Kaivalya1234/rock-paper-scissors"
+    },
+    {
+      "title": "HAR",
+      "imageSrc": "assests/projects/project4.png",
+      "description": "Human activity recognition (HAR) is the process of identifying and naming activities from data collected from devices. HAR uses ML or DL networks to classify a person's actions from a series of measurements.",
+      "skills": ["machineLearning","Python"],
+      "source": "https://github.com/Kaivalya1234/HAR-using-LSTM"
+    },
+    {
+      "title": "Birds Audio Classification",
+      "imageSrc": "assests/projects/project5.png",
+      "description": "Birds classification based on audio using ML and DL techniques can be very helpful to find some rare birds as it will tell the species of the bird before actually tracking it and this can save a lot of time and efforts.",
+      "skills": ["machineLearning","Python"],
+      "source": "https://github.com/Kaivalya1234/Birds-Audio-Classification"
+    },
+    {
+      "title": "Wine Quality Check",
+      "imageSrc": "assests/projects/project6.jpg",
+      "description": "Wine Quality Check ML Project aims to provide an objective measure of wine quality that helps stakeholders differentiate between wines that meet high-quality standards and those that fall below expectations. ",
+      "skills": ["machineLearning","Python"],
+      "source": "https://github.com/Kaivalya1234/ML-wine-quality-checking-using-Random-Forest"
+    }
+  ]
